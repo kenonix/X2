@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MultiTTS" parent="android:Theme.Material.NoActionBar">
+        <!-- 네이티브 상태바 및 네비게이션바 스타일 정의 -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

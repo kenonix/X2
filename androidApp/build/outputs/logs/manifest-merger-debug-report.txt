@@ -1,0 +1,344 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:2:1-46:12
+MERGED from [androidx.activity:activity:1.9.3] /home/kenonix/.gradle/caches/9.2.1/transforms/ca7649935a8617a536ee8e4b8e8fc923/transformed/activity-1.9.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] /home/kenonix/.gradle/caches/9.2.1/transforms/90c99361308df035a98e7995d1f0d18a/transformed/activity-ktx-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /home/kenonix/.gradle/caches/9.2.1/transforms/1845e5d8ae8bdfacdb4e1613388c31fb/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.9.3] /home/kenonix/.gradle/caches/9.2.1/transforms/ef14055ec419f0451c80d22b332fc110/transformed/activity-compose-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/e6c79f2d85bd917e64f5b2de32e1f85a/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/0b5f280ed9ecaa6a702e942a2ceb5c9b/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/8a3da2b0588a5346453b1d2ea4677659/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/b0ed223117bc9b629846c44003de2113/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/b6f3e82c9ffcbad7d69ddfbb071abbc4/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/7f58cb44ff0908ddea589f9e57ed5965/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/03676c3d0de60e1e261bc03f1793862c/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/1f7345e03032ce7e5663f96787b43169/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/6b5c3f3346e65a9b31064ac883429652/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/0532804874e898441f477dd08e2fe299/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/0daa64084837a4b1e794e8f7659f59a2/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/d0552165e73e07106f3ee882db9f70a4/transformed/material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/f04a26c56faa73a52d7f2b4668b9c2ef/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/8d1255a5c2dddb59240019c5eb8fa93e/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/kenonix/.gradle/caches/9.2.1/transforms/da13eeb63ecc2b600754b944fbadd086/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/kenonix/.gradle/caches/9.2.1/transforms/29d0e334487be0deeea12599f7d43494/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/kenonix/.gradle/caches/9.2.1/transforms/c298ebff253a095b1e05062b2b0dd55a/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/dcea543f06fc7cd6e3041247470db19a/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/kenonix/.gradle/caches/9.2.1/transforms/d9d31334f9d302f08ed628eb3fd1e4b4/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/kenonix/.gradle/caches/9.2.1/transforms/4b7baded6bb280aecb6e987e70c3477d/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/kenonix/.gradle/caches/9.2.1/transforms/8c98ea0b87e7fc5c3045e195ddabdce3/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/b0613857d9be318516b2fa5aac711a3c/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/c0898c711cf12f18311ce2d3f085b8e6/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/26c41133c4e9770d88385cced2e62cb7/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/b2d2427ff99f92314106944102a19195/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/9322c05209d49327865e477de1b95b58/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/e8e72ff83016389043e48e6dc0a750d8/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/88954d2155bcda8a0acd9476e15870c8/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/b7f66a8e060a29f5210221ac029f5972/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/176f6c65b918b139e474e929cb12739b/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/1c42518a88c40453c1ef3dc17f83c22a/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/ff948c04b2e05d163b3a843341054484/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kenonix/.gradle/caches/9.2.1/transforms/ab0d093a5e77551a81e5c60570030027/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/kenonix/.gradle/caches/9.2.1/transforms/33a926eae0b75dbe52beabc8d9bb24e4/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.documentfile:documentfile:1.0.1] /home/kenonix/.gradle/caches/9.2.1/transforms/f69448a901b201f1db64bd190307eb71/transformed/documentfile-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kenonix/.gradle/caches/9.2.1/transforms/0620a1a5b81a9378ae26740e17f09471/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/kenonix/.gradle/caches/9.2.1/transforms/f181d523a86bdea0f0a608568dcbc877/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/kenonix/.gradle/caches/9.2.1/transforms/3a9913a3d936cfdb776c9136ffd42ccf/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/kenonix/.gradle/caches/9.2.1/transforms/caa9fe338883231f8c6dcdd60f9e286c/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.microsoft.onnxruntime:onnxruntime-android:1.19.2] /home/kenonix/.gradle/caches/9.2.1/transforms/fce2fcd139feec088202bd274f11033c/transformed/onnxruntime-android-1.19.2/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:5:5-107
+	android:maxSdkVersion
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:5:78-104
+	android:name
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:9:5-44:19
+INJECTED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:9:5-44:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/kenonix/.gradle/caches/9.2.1/transforms/c298ebff253a095b1e05062b2b0dd55a/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/kenonix/.gradle/caches/9.2.1/transforms/c298ebff253a095b1e05062b2b0dd55a/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/dcea543f06fc7cd6e3041247470db19a/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/dcea543f06fc7cd6e3041247470db19a/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/b0613857d9be318516b2fa5aac711a3c/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/b0613857d9be318516b2fa5aac711a3c/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kenonix/.gradle/caches/9.2.1/transforms/ab0d093a5e77551a81e5c60570030027/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kenonix/.gradle/caches/9.2.1/transforms/ab0d093a5e77551a81e5c60570030027/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/kenonix/.gradle/caches/9.2.1/transforms/f181d523a86bdea0f0a608568dcbc877/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/kenonix/.gradle/caches/9.2.1/transforms/f181d523a86bdea0f0a608568dcbc877/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml
+	android:requestLegacyExternalStorage
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:16:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/dcea543f06fc7cd6e3041247470db19a/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:13:9-63
+	android:icon
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:11:9-58
+	android:allowBackup
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:15:9-46
+activity#org.example.x2.MainActivity
+ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:18:9-27:20
+	android:exported
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:20:13-36
+	android:configChanges
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:22:13-87
+	android:theme
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:21:13-50
+	android:name
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:25:27-74
+service#org.example.x2.MyTTSService
+ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:30:9-43:19
+	android:enabled
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:32:13-35
+	android:label
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:34:13-38
+	android:exported
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:35:13-80
+	android:name
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.TTS_SERVICE+category:name:android.intent.category.DEFAULT
+ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:36:13-39:29
+	android:priority
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:36:28-50
+action#android.intent.action.TTS_SERVICE
+ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:37:25-73
+category#android.intent.category.DEFAULT
+ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:38:27-73
+meta-data#android.speech.tts
+ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:40:13-42:54
+	android:resource
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:42:17-51
+	android:name
+		ADDED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml:41:17-50
+uses-sdk
+INJECTED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml
+INJECTED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml
+MERGED from [androidx.activity:activity:1.9.3] /home/kenonix/.gradle/caches/9.2.1/transforms/ca7649935a8617a536ee8e4b8e8fc923/transformed/activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] /home/kenonix/.gradle/caches/9.2.1/transforms/ca7649935a8617a536ee8e4b8e8fc923/transformed/activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /home/kenonix/.gradle/caches/9.2.1/transforms/90c99361308df035a98e7995d1f0d18a/transformed/activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /home/kenonix/.gradle/caches/9.2.1/transforms/90c99361308df035a98e7995d1f0d18a/transformed/activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /home/kenonix/.gradle/caches/9.2.1/transforms/1845e5d8ae8bdfacdb4e1613388c31fb/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /home/kenonix/.gradle/caches/9.2.1/transforms/1845e5d8ae8bdfacdb4e1613388c31fb/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] /home/kenonix/.gradle/caches/9.2.1/transforms/ef14055ec419f0451c80d22b332fc110/transformed/activity-compose-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] /home/kenonix/.gradle/caches/9.2.1/transforms/ef14055ec419f0451c80d22b332fc110/transformed/activity-compose-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/e6c79f2d85bd917e64f5b2de32e1f85a/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/e6c79f2d85bd917e64f5b2de32e1f85a/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/0b5f280ed9ecaa6a702e942a2ceb5c9b/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/0b5f280ed9ecaa6a702e942a2ceb5c9b/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/8a3da2b0588a5346453b1d2ea4677659/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/8a3da2b0588a5346453b1d2ea4677659/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/b0ed223117bc9b629846c44003de2113/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/b0ed223117bc9b629846c44003de2113/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/b6f3e82c9ffcbad7d69ddfbb071abbc4/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/b6f3e82c9ffcbad7d69ddfbb071abbc4/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/7f58cb44ff0908ddea589f9e57ed5965/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/7f58cb44ff0908ddea589f9e57ed5965/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/03676c3d0de60e1e261bc03f1793862c/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/03676c3d0de60e1e261bc03f1793862c/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/1f7345e03032ce7e5663f96787b43169/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/1f7345e03032ce7e5663f96787b43169/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/6b5c3f3346e65a9b31064ac883429652/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/6b5c3f3346e65a9b31064ac883429652/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/0532804874e898441f477dd08e2fe299/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/0532804874e898441f477dd08e2fe299/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/0daa64084837a4b1e794e8f7659f59a2/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/0daa64084837a4b1e794e8f7659f59a2/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/d0552165e73e07106f3ee882db9f70a4/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/d0552165e73e07106f3ee882db9f70a4/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/f04a26c56faa73a52d7f2b4668b9c2ef/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/f04a26c56faa73a52d7f2b4668b9c2ef/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/8d1255a5c2dddb59240019c5eb8fa93e/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/8d1255a5c2dddb59240019c5eb8fa93e/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /home/kenonix/.gradle/caches/9.2.1/transforms/da13eeb63ecc2b600754b944fbadd086/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/kenonix/.gradle/caches/9.2.1/transforms/da13eeb63ecc2b600754b944fbadd086/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/kenonix/.gradle/caches/9.2.1/transforms/29d0e334487be0deeea12599f7d43494/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/kenonix/.gradle/caches/9.2.1/transforms/29d0e334487be0deeea12599f7d43494/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/kenonix/.gradle/caches/9.2.1/transforms/c298ebff253a095b1e05062b2b0dd55a/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/kenonix/.gradle/caches/9.2.1/transforms/c298ebff253a095b1e05062b2b0dd55a/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/dcea543f06fc7cd6e3041247470db19a/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/dcea543f06fc7cd6e3041247470db19a/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/kenonix/.gradle/caches/9.2.1/transforms/d9d31334f9d302f08ed628eb3fd1e4b4/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/kenonix/.gradle/caches/9.2.1/transforms/d9d31334f9d302f08ed628eb3fd1e4b4/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/kenonix/.gradle/caches/9.2.1/transforms/4b7baded6bb280aecb6e987e70c3477d/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/kenonix/.gradle/caches/9.2.1/transforms/4b7baded6bb280aecb6e987e70c3477d/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/kenonix/.gradle/caches/9.2.1/transforms/8c98ea0b87e7fc5c3045e195ddabdce3/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/kenonix/.gradle/caches/9.2.1/transforms/8c98ea0b87e7fc5c3045e195ddabdce3/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/b0613857d9be318516b2fa5aac711a3c/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/b0613857d9be318516b2fa5aac711a3c/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/c0898c711cf12f18311ce2d3f085b8e6/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/c0898c711cf12f18311ce2d3f085b8e6/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/26c41133c4e9770d88385cced2e62cb7/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/26c41133c4e9770d88385cced2e62cb7/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/b2d2427ff99f92314106944102a19195/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/b2d2427ff99f92314106944102a19195/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/9322c05209d49327865e477de1b95b58/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/9322c05209d49327865e477de1b95b58/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/e8e72ff83016389043e48e6dc0a750d8/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/e8e72ff83016389043e48e6dc0a750d8/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/88954d2155bcda8a0acd9476e15870c8/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/88954d2155bcda8a0acd9476e15870c8/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/b7f66a8e060a29f5210221ac029f5972/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/b7f66a8e060a29f5210221ac029f5972/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/176f6c65b918b139e474e929cb12739b/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/176f6c65b918b139e474e929cb12739b/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/1c42518a88c40453c1ef3dc17f83c22a/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/1c42518a88c40453c1ef3dc17f83c22a/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/ff948c04b2e05d163b3a843341054484/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.4] /home/kenonix/.gradle/caches/9.2.1/transforms/ff948c04b2e05d163b3a843341054484/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kenonix/.gradle/caches/9.2.1/transforms/ab0d093a5e77551a81e5c60570030027/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kenonix/.gradle/caches/9.2.1/transforms/ab0d093a5e77551a81e5c60570030027/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/kenonix/.gradle/caches/9.2.1/transforms/33a926eae0b75dbe52beabc8d9bb24e4/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/kenonix/.gradle/caches/9.2.1/transforms/33a926eae0b75dbe52beabc8d9bb24e4/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] /home/kenonix/.gradle/caches/9.2.1/transforms/f69448a901b201f1db64bd190307eb71/transformed/documentfile-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] /home/kenonix/.gradle/caches/9.2.1/transforms/f69448a901b201f1db64bd190307eb71/transformed/documentfile-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kenonix/.gradle/caches/9.2.1/transforms/0620a1a5b81a9378ae26740e17f09471/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kenonix/.gradle/caches/9.2.1/transforms/0620a1a5b81a9378ae26740e17f09471/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/kenonix/.gradle/caches/9.2.1/transforms/f181d523a86bdea0f0a608568dcbc877/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/kenonix/.gradle/caches/9.2.1/transforms/f181d523a86bdea0f0a608568dcbc877/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/kenonix/.gradle/caches/9.2.1/transforms/3a9913a3d936cfdb776c9136ffd42ccf/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/kenonix/.gradle/caches/9.2.1/transforms/3a9913a3d936cfdb776c9136ffd42ccf/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/kenonix/.gradle/caches/9.2.1/transforms/caa9fe338883231f8c6dcdd60f9e286c/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/kenonix/.gradle/caches/9.2.1/transforms/caa9fe338883231f8c6dcdd60f9e286c/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.microsoft.onnxruntime:onnxruntime-android:1.19.2] /home/kenonix/.gradle/caches/9.2.1/transforms/fce2fcd139feec088202bd274f11033c/transformed/onnxruntime-android-1.19.2/AndroidManifest.xml:5:5-44
+MERGED from [com.microsoft.onnxruntime:onnxruntime-android:1.19.2] /home/kenonix/.gradle/caches/9.2.1/transforms/fce2fcd139feec088202bd274f11033c/transformed/onnxruntime-android-1.19.2/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kenonix/gits/multi-tts-app/androidApp/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/kenonix/.gradle/caches/9.2.1/transforms/c298ebff253a095b1e05062b2b0dd55a/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/b0613857d9be318516b2fa5aac711a3c/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/b0613857d9be318516b2fa5aac711a3c/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/kenonix/.gradle/caches/9.2.1/transforms/f181d523a86bdea0f0a608568dcbc877/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/kenonix/.gradle/caches/9.2.1/transforms/f181d523a86bdea0f0a608568dcbc877/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/kenonix/.gradle/caches/9.2.1/transforms/c298ebff253a095b1e05062b2b0dd55a/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/kenonix/.gradle/caches/9.2.1/transforms/c298ebff253a095b1e05062b2b0dd55a/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/kenonix/.gradle/caches/9.2.1/transforms/c298ebff253a095b1e05062b2b0dd55a/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/kenonix/.gradle/caches/9.2.1/transforms/c298ebff253a095b1e05062b2b0dd55a/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/kenonix/.gradle/caches/9.2.1/transforms/c298ebff253a095b1e05062b2b0dd55a/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/kenonix/.gradle/caches/9.2.1/transforms/c298ebff253a095b1e05062b2b0dd55a/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/kenonix/.gradle/caches/9.2.1/transforms/c298ebff253a095b1e05062b2b0dd55a/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/dcea543f06fc7cd6e3041247470db19a/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/dcea543f06fc7cd6e3041247470db19a/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/dcea543f06fc7cd6e3041247470db19a/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#org.example.multitts.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/dcea543f06fc7cd6e3041247470db19a/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/dcea543f06fc7cd6e3041247470db19a/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/dcea543f06fc7cd6e3041247470db19a/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/dcea543f06fc7cd6e3041247470db19a/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/dcea543f06fc7cd6e3041247470db19a/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#org.example.multitts.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/dcea543f06fc7cd6e3041247470db19a/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/kenonix/.gradle/caches/9.2.1/transforms/dcea543f06fc7cd6e3041247470db19a/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/b0613857d9be318516b2fa5aac711a3c/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/b0613857d9be318516b2fa5aac711a3c/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/kenonix/.gradle/caches/9.2.1/transforms/b0613857d9be318516b2fa5aac711a3c/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/kenonix/.gradle/caches/9.2.1/transforms/d21b1a28157003d9e54aed3d7e78ecf5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
